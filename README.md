@@ -37,4 +37,4 @@ This repository contains Terraform configurations to provision AWS infrastructur
    ```
 
  ## Diagram
- - [Infrastructure Diagram](diagram.png)
+ - ![Infrastructure Diagram](diagram.png)
