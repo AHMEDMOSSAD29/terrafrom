@@ -36,9 +36,5 @@ This repository contains Terraform configurations to provision AWS infrastructur
    terraform apply
    ```
 
-## Usage
-
-- Modify the `variables.tf` file to customize the infrastructure to your requirements.
-- Use `terraform destroy` to tear down the created infrastructure.
  ## Diagram
  - [Infrastructure Diagram](diagram.png)
